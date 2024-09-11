@@ -18,7 +18,16 @@
 .hamburger svg > *:nth-child(1) {
     transition: y 0.1s 0.25s ease-in, transform 0.22s cubic-bezier(0.55, 0.055, 0.675, 0.19), opacity 0.1s ease-in;
 }
-
+.bg-brown-700 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(177 104 49 / var(--tw-bg-opacity));
+  }
+  
+  
+  .text-brown-600 {
+    --tw-text-opacity: 1;
+    color: rgb(177 104 49 / var(--tw-text-opacity));
+  }
 .hamburger svg > *:nth-child(2) {
     transition: transform 0.22s cubic-bezier(0.55, 0.055, 0.675, 0.19);
 }
