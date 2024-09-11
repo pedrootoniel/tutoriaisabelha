@@ -9,7 +9,6 @@ import Newsletter from '@/components/newsletter'
 import Testimonials from '@/components/testimonials'
 import Hero1 from '@/components/hero1'
 import Hero2 from '@/components/hero2'
-import Chat02 from '@/components/chat1'
 
 
 export default function Home() {
@@ -21,7 +20,6 @@ export default function Home() {
       <Hero2 />
       <Testimonials />
       <Newsletter />
-      <Chat02 />
     </>
   )
 }
