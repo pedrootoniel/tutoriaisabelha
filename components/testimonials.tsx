@@ -19,19 +19,32 @@ export default function Testimonials() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Precisa de atendimento? qual a sua região ?</h2>
             
-            <Link href="https://api.whatsapp.com/send/?phone=556281890223&text&type=phone_number&app_absent=0"><p className="text-xl text-gray-400">(Master)
+
+            <h1>Consultora Master</h1>
+            <Link href="https://api.whatsapp.com/send/?phone=556281890223&text&type=phone_number&app_absent=0"><p className="text-xl text-gray-400">
 Joana Darck
 AL, BA, CE, DF, ES, GO, MG, MS, MT, PB, TE E RJ</p>
 </Link>
+
+<br></br>
+
+<h1>Consultora Gestora</h1>
 <Link href="https://api.whatsapp.com/send/?phone=556281590025&text&type=phone_number&app_absent=0">
-<p className="text-xl text-gray-400">(Gestora) Fernanda Santos
+<p className="text-xl text-gray-400">Fernanda Santos
 SP, SC, RS, RJ, PRE, MS, MG, GO, ES, DF</p>
 </Link>
+<br></br>
+
+<h1>Consultora Gestora e Master</h1>
 <Link href="https://api.whatsapp.com/send/?phone=556281890208&text&type=phone_number&app_absent=0">
-<p className="text-xl text-gray-400">(Gestora e Master)
+<p className="text-xl text-gray-400">
 Pedro Henrique
 AL , BA , CE , MT, PB ,PE ,RN ,SE , TO</p>
 </Link>
+
+<br></br>
+<h1>Consultora Gestora e Master</h1>
+
 <Link href="https://api.whatsapp.com/send/?phone=556282734814&text&type=phone_number&app_absent=0">
 <p className="text-xl text-gray-400">(Gestora e master)
 Isabel Machado
