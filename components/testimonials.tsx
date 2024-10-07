@@ -17,7 +17,17 @@ export default function Testimonials() {
           </div>
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Precisa de atendimento? qual a sua região ?</h2>
-            <p className="text-xl text-gray-400">Minas Gerais: Joana Darc - Gestora</p>
+            <p className="text-xl text-gray-400">(Master)
+Joana DARCK
+AL, BA, CE, DF, ES, GO, MG, MS, MT, PB, TE E RJ</p>
+<p className="text-xl text-gray-400">(Gestora) Fernanda Santos
+SP, SC, RS, RJ, PRE, MS, MG, GO, ES, DF</p>
+<p className="text-xl text-gray-400">(Gestora e Master)
+Pedro Henrique
+AL , BA , CE , MT, PB ,PE ,RN ,SE , TO</p>
+<p className="text-xl text-gray-400">(Gestora e master)
+Isabel Machado
+AM, MA, PA, PI, AC, AP, RR, RO</p>
 
           </div>
 
